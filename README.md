@@ -6,13 +6,13 @@ This Java application fetches and displays Faal Hafez (a form of Persian divinat
 
 ## Table of Contents :pushpin:
 
-- [Features](#features)
-- [Code Structure](#code_structure)
-- [Installation](#installation)
-- [Future Improvements](#future_improvements)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Features](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#features-bulb)
+- [Code Structure](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#code-structure-file_folder)
+- [Installation](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#installation-wrench)
+- [Future Improvements](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#future-improvements-star2)
+- [Requirements](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#requirements-clipboard)
+- [Contributing](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#contributing-handshake)
+- [Contact](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#contact-email)
 
 ## Features :bulb:
 
