@@ -6,13 +6,14 @@ This Java application fetches and displays Faal Hafez (a form of Persian divinat
 
 ## Table of Contents :pushpin:
 
-- [Features](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#features-bulb)
-- [Code Structure](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#code-structure-file_folder)
-- [Installation](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#installation-wrench)
-- [Future Improvements](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#future-improvements-star2)
-- [Requirements](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#requirements-clipboard)
-- [Contributing](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#contributing-handshake)
-- [Contact](https://github.com/m3hdi2gh/Faal-Hafez-GUI/tree/main?tab=readme-ov-file#contact-email)
+- [Features :bulb:](#features)
+- [Code Structure :file_folder:](#code-structure)
+- [Installation :wrench:](#installation)
+- [Future Improvements :star2:](#future-improvements)
+- [Requirements :clipboard:](#requirements)
+- [Contributing :handshake:](#contributing)
+- [Contact :email:](#contact)
+- [Enjoy using Faal Hafez! :tada:](#enjoy-using-faal_hafez)
 
 ## Features :bulb:
 
@@ -59,3 +60,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 For any questions, feel free to reach out to me at `m3hdigholami@aut.ac.ir`.
 
 # Enjoy using Faal Hafez! :tada:
+
+I hope you find this Faal Hafez application useful and fun to use!
